@@ -83,8 +83,12 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    // max-width: 175px;
+    // border-radius: 50%;
+    max-width: 800px; /* Increase size as desired */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 0; /* Remove circular shape */
+    object-fit: cover;
 
     @include breakpoint($large) {
       padding: 5px;
