@@ -1,12 +1,12 @@
 .container {
     width:100%;
-    border:1px solid #FFCF40; /* d3d3d3 is gray */
+    border:1px solid #d3d3d3; /* d3d3d3 is gray */
 }
 .container div {
     width:100%;
 }
 .container .header {
-    background-color:#4070FF;
+    background-color:#d3d3d3;
     padding: 2px;
     cursor: pointer;
     font-weight: bold;
@@ -14,5 +14,5 @@
 .container .content {
     display: none;
     padding : 5px;
-    background-color: #4070FF; /* Add this line for content background */
+    background-color: #d3d3d3; /* Add this line for content background */
 }
