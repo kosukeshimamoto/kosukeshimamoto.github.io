@@ -7,4 +7,6 @@ author_profile: true
 
 # Work in Progress
 
-- a
+- Long-term Effect of Merger and Optimal Remedy in the U.S. Grocery Store Industry (working title)
+- Matching with Recommendation: An Experiment (with Yasutora Watanabe)
+- Strategy Choice and Emotion in Repeated Prisoners Dilemma (with Junichi Chikazoe, Yutaka Kayaba and Yasutora Watanabe)
