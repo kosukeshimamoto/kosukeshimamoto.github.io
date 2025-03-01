@@ -9,4 +9,4 @@ author_profile: true
 
 ## 学歴
 
-- 
+- a
