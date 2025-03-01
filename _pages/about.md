@@ -12,6 +12,5 @@ I am a second-year Ph.D. Student in Economics at Duke University.
 
 My research interest is in Empirical Industrial Organization.
 
-Here is my curriculum vitae.
-
+- [Curriculum Vitae](https://kosukeshimamoto.github.io/files/cv.pdf).
 - Contact: kosuke.shimamoto(at)duke.edu
