@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "自己紹介"
+title: ""
 permalink: /about-me-jp/
 author_profile: true
 ---
 
-# 学歴
+# 自己紹介
+
+## 学歴
 
 - 
