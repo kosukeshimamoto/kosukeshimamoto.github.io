@@ -1,10 +1,10 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Research"
+    url: /research/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "自己紹介(日本語)"
+    url: /about-me-jp/
 
   # - title: "Teaching"
   #   url: /teaching/    

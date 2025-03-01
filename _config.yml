@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kosuke Shimamoto's Web Page"
+title                    : "Kosuke Shimamoto"
 title_separator          : "-"
 name                     : &name "Kosuke Shimamoto"
 description              : &description "personal description"

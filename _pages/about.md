@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. Student in Economics at Duke University.
+I am a second-year Ph.D. Student in Economics at Duke University.
+My research interest is in Empirical Industrial Organization.
 
-- Contact: kosuke.shimamoto.8(at)gmail.com
+Here is my curriculum vitae.
+
+- Contact: kosuke.shimamoto(at)duke.edu
