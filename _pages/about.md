@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kosuke Shimamoto (島本幸典)"
+title: "Kosuke Shimamoto"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
