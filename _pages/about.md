@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 show_sidebar: false
@@ -8,6 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+# Kosuke Shimamoto
 
 <div class="about-intro">
   <img class="about-intro__photo" src="{{ '/images/10923_shimamoto_kosuke003.jpg' | relative_url }}" alt="Kosuke Shimamoto">
