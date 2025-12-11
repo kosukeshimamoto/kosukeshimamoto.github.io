@@ -15,8 +15,7 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% assign sidebar_enabled = site.show_sidebar | default: true %}
-  {% if page.show_sidebar != false and sidebar_enabled %}
+  {% if page.show_sidebar == true or site.show_sidebar == true %}
     {% include sidebar.html %}
   {% endif %}
 

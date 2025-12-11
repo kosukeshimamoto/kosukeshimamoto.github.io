@@ -203,6 +203,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_sidebar: false
   # _pages
   - scope:
       path: ""
@@ -210,6 +211,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_sidebar: false
   # _teaching
   - scope:
       path: ""

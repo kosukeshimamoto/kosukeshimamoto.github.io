@@ -3,6 +3,7 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
+show_sidebar: false
 redirect_from: 
   - /about/
   - /about.html
