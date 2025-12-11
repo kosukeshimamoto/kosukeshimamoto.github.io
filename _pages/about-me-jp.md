@@ -3,6 +3,7 @@ layout: archive
 title: "自己紹介"
 permalink: /about-me-jp/
 author_profile: true
+show_sidebar: false
 ---
 
 - 島本幸典
