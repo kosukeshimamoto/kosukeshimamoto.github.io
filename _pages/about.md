@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kosuke Shimamoto"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. Student in Economics at Duke University. 
-
-My research interest is in Empirical Industrial Organization.
-
-- [Curriculum Vitae](https://kosukeshimamoto.github.io/files/cv/CV_KosukeShimamoto.pdf)
-- Contact: kosuke.shimamoto(at)duke.edu
+<div class="about-intro">
+  <img class="about-intro__photo" src="{{ '/images/10923_shimamoto_kosuke003.jpg' | relative_url }}" alt="Kosuke Shimamoto">
+  <div class="about-intro__text">
+    <p>I am a third-year Ph.D. Student in Economics at Duke University.</p>
+    <p>My research interest is in Empirical Industrial Organization.</p>
+    <ul>
+      <li><a href="https://kosukeshimamoto.github.io/files/cv/CV_KosukeShimamoto.pdf">Curriculum Vitae</a></li>
+      <li>Contact: kosuke.shimamoto(at)duke.edu</li>
+    </ul>
+  </div>
+</div>
 
 # Research 
 ## Work in Progress

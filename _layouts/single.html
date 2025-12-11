@@ -15,7 +15,10 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% include sidebar.html %}
+  {% assign sidebar_enabled = site.show_sidebar | default: true %}
+  {% if page.show_sidebar != false and sidebar_enabled %}
+    {% include sidebar.html %}
+  {% endif %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
