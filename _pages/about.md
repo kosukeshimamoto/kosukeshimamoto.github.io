@@ -14,8 +14,10 @@ redirect_from:
 <div class="about-intro">
   <img class="about-intro__photo" src="{{ '/images/10923_shimamoto_kosuke003.jpg' | relative_url }}" alt="Kosuke Shimamoto">
   <div class="about-intro__text">
-    <p>I am a third-year Ph.D. Student in Economics at Duke University.</p>
-    <p>My research interest is in Empirical Industrial Organization.</p>
+    <p>
+    I am a third-year Ph.D. Student in Economics at Duke University.
+    My research interest is Empirical Industrial Organization. Here is my <a href="{{ '/files/cv/CV_KosukeShimamoto.pdf' | relative_url }}">Curriculum Vitae</a>.
+    </p>
     <div class="about-social-icons social-icons">
       <a href="mailto:{{ site.author.email }}" aria-label="Email">
         <i class="fas fa-envelope" aria-hidden="true"></i>
