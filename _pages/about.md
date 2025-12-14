@@ -18,11 +18,14 @@ redirect_from:
     I am a third-year Ph.D. Student in Economics at Duke University.
     My research interest is Empirical Industrial Organization. Here is my <a href="{{ '/files/cv/CV_KosukeShimamoto.pdf' | relative_url }}">Curriculum Vitae</a>.
     </p>
+    <p>
+      Contact: <a href="mailto:kosuke.shimamoto@duke.edu" aria-label="Email">kosuke.shimamoto@duke.edu</a>
+    </p>
     <div class="about-social-icons social-icons">
-      <a href="mailto:{{ site.author.email }}" aria-label="Email">
+      <!-- <a href="mailto:{{ site.author.email }}" aria-label="Email">
         <i class="fas fa-envelope" aria-hidden="true"></i>
         <span class="sr-only">Email</span>
-      </a>
+      </a> -->
       <a href="https://github.com/{{ site.author.github }}" aria-label="GitHub">
         <i class="fab fa-github" aria-hidden="true"></i>
         <span class="sr-only">GitHub</span>
@@ -31,14 +34,11 @@ redirect_from:
         <i class="fab fa-linkedin" aria-hidden="true"></i>
         <span class="sr-only">LinkedIn</span>
       </a>
-      <a href="{{ '/files/cv/CV_KosukeShimamoto.pdf' | relative_url }}" aria-label="CV">
+      <!-- <a href="{{ '/files/cv/CV_KosukeShimamoto.pdf' | relative_url }}" aria-label="CV">
         <i class="far fa-file-pdf" aria-hidden="true"></i>
         <span class="sr-only">CV</span>
-      </a>
+      </a> -->
     </div>
-    <ul>
-      <li>Contact: kosuke.shimamoto(at)duke.edu</li>
-    </ul>
   </div>
 </div>
 
