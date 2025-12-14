@@ -60,6 +60,30 @@
   flex: 1 1 0;
 }
 
+.about-social-icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  align-items: center;
+  margin: 0.75rem 0 0.75rem;
+  font-size: 1.8rem;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+  }
+
+  a:hover,
+  a:focus {
+    opacity: 0.85;
+  }
+
+  i {
+    line-height: 1;
+  }
+}
+
 @media (max-width: 640px) {
   .about-intro {
     flex-direction: column;

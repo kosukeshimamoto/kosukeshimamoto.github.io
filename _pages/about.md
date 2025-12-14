@@ -16,8 +16,25 @@ redirect_from:
   <div class="about-intro__text">
     <p>I am a third-year Ph.D. Student in Economics at Duke University.</p>
     <p>My research interest is in Empirical Industrial Organization.</p>
+    <div class="about-social-icons social-icons">
+      <a href="mailto:{{ site.author.email }}" aria-label="Email">
+        <i class="fas fa-envelope" aria-hidden="true"></i>
+        <span class="sr-only">Email</span>
+      </a>
+      <a href="https://github.com/{{ site.author.github }}" aria-label="GitHub">
+        <i class="fab fa-github" aria-hidden="true"></i>
+        <span class="sr-only">GitHub</span>
+      </a>
+      <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" aria-label="LinkedIn">
+        <i class="fab fa-linkedin" aria-hidden="true"></i>
+        <span class="sr-only">LinkedIn</span>
+      </a>
+      <a href="{{ '/files/cv/CV_KosukeShimamoto.pdf' | relative_url }}" aria-label="CV">
+        <i class="far fa-file-pdf" aria-hidden="true"></i>
+        <span class="sr-only">CV</span>
+      </a>
+    </div>
     <ul>
-      <li><a href="https://kosukeshimamoto.github.io/files/cv/CV_KosukeShimamoto.pdf">Curriculum Vitae</a></li>
       <li>Contact: kosuke.shimamoto(at)duke.edu</li>
     </ul>
   </div>
