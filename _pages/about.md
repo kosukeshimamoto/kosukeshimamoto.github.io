@@ -46,7 +46,7 @@ redirect_from:
 
 ## Working Papers
 
-- [Store Exit After Structural Merger Remedies in the U.S. Grocery Industry](https://kosukeshimamoto.github.io/files/papers/MergerRemedy20260403.pdf)
+- Store Exit After Structural Merger Remedies in the U.S. Grocery Industry
   - Presented at IIOC 2026
 
 ## Work in Progress
