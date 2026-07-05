@@ -42,14 +42,28 @@ redirect_from:
   </div>
 </div>
 
-# Research 
+## Research
 
-## Working Papers
+### Working Papers
 
 - Store Exit After Structural Merger Remedies in the U.S. Grocery Industry
   - Presented at IIOC 2026
 
+<!--
 ## Work in Progress
 
 - Matching with Recommendation: An Experiment (with Yasutora Watanabe)
 - Strategy Choice and Emotion in Repeated Prisoners Dilemma (with Junichi Chikazoe, Yutaka Kayaba and Yasutora Watanabe)
+-->
+
+## Teaching
+
+### Instructor, Duke University
+
+- Julia for Empirical Economics (ECON 809, PhD), Summer 2026
+
+### Teaching Assistant, Duke University
+
+- Market Power and Public Policy (ECON 465/665, Undergraduate), Allan Collard-Wexler, Fall 2025
+- Applied Econometrics in Microeconomics (ECON 613, Master), Daniel Yi Xu, Spring 2025
+- Introduction to Econometrics (ECON 608, Master), Adam Rosen, Fall 2024
