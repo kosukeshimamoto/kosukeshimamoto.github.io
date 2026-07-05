@@ -11,6 +11,13 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+# Ruby 3.4+/4.0 removed these from the default gems, but the pinned Jekyll needs them.
+gem "csv"
+gem "base64"
+gem "logger"
+gem "bigdecimal"
+gem "webrick"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
