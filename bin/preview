@@ -20,5 +20,21 @@ export LC_ALL="en_US.UTF-8"
 
 cd "$(dirname "$0")/.."
 
+URL="http://localhost:4000/"
+
+# Open the browser automatically once the server is actually responding.
+# Runs in the background so it does not block the server itself.
+if command -v open >/dev/null 2>&1; then
+  (
+    for _ in $(seq 1 60); do
+      if curl -s -o /dev/null "$URL"; then
+        open "$URL"
+        break
+      fi
+      sleep 1
+    done
+  ) &
+fi
+
 # _config.dev.yml overrides the production URL/analytics for local use.
 exec bundle exec jekyll serve --livereload --config _config.yml,_config.dev.yml "$@"

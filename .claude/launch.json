@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll",
+      "runtimeExecutable": "bin/preview",
+      "runtimeArgs": [],
+      "port": 4000
+    }
+  ]
+}
