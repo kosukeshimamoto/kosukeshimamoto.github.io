@@ -51,8 +51,19 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    padding-bottom: 0.2em;
+    border-bottom: 0px solid $border-color;
+  }
+
+  /* Kill the browser-default top margin on a list/paragraph that immediately
+     follows a heading, so the gap is controlled only by the heading's own
+     bottom margin (see _base.scss `h1..h6 { margin: ... }`). */
+  h1, h2, h3, h4, h5, h6 {
+    & + ul,
+    & + ol,
+    & + p {
+      margin-top: 0;
+    }
   }
 
   p, li, dl {
