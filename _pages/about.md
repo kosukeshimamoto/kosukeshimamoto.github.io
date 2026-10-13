@@ -15,7 +15,7 @@ redirect_from:
   <img class="about-intro__photo" src="{{ '/images/10923_shimamoto_kosuke003.jpg' | relative_url }}" alt="Kosuke Shimamoto">
   <div class="about-intro__text">
     <p>
-    I am a third-year Ph.D. Student in Economics at Duke University.
+    I am a fourth-year Ph.D. Student in Economics at Duke University.
     My research interest is Empirical Industrial Organization. Here is my <a href="{{ '/files/cv/CV_KosukeShimamoto.pdf' | relative_url }}">Curriculum Vitae</a>.
     </p>
     <p>
@@ -48,6 +48,10 @@ redirect_from:
 
 - Store Exit After Structural Merger Remedies in the U.S. Grocery Industry
   - Presented at IIOC 2026
+
+### Work in Progress
+
+- Empirical Study of Innovation-for-buyout in Drug Development (with [Ryuya Ko](https://ryuya-ko.github.io/))
 
 <!--
 ## Work in Progress
